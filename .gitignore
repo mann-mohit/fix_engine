@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.git
+*.o
+*.so
+*.exe
+*.log
+logs/
+target/

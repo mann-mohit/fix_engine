@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags>
+    <tag tagNum="1" tagName="Account" type="string" />
+    <tag tagNum="2" tagName="AdvId" type="string" />
+    <tag tagNum="3" tagName="AdvRefID" type="string" />
+    <tag tagNum="4" tagName="AdvSide" type="char" />
+    <tag tagNum="5" tagName="AdvTransType" type="string" />
+    <tag tagNum="6" tagName="AvgPx" type="price" />
+    <tag tagNum="7" tagName="BeginSeqNo" type="int" />
+</tags>

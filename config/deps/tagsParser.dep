@@ -1,0 +1,2 @@
+src/lib/TagsParser.cpp
+third_party/pugixml/pugixml.cpp
